@@ -1,0 +1,1 @@
+execute as @a[scores={JumpCount=1}] run function lazyjump:loot

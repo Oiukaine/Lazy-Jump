@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "description": [
+      {
+        "text": "LazyJump",
+        "color": "green"
+      },
+      {
+        "text": "@author: oiukaine @version: 1.0 @createTime: 22/9/2021",
+        "color": "gold"
+      }
+    ]
+  }
+}
