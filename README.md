@@ -7,5 +7,6 @@ This is a Minecraft datapack for 1.17.1.
 Update Logs: 
 23/9/2021
 @version 1.1
-	upload the pack.png
-	delete the string "@createTime: 22/9/2021" from pack.mcmeta
+upload the pack.png
+delete the string "@createTime: 22/9/2021" from pack.mcmeta
+
