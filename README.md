@@ -10,3 +10,6 @@ Update Logs:
 upload the pack.png  
 delete the string "@createTime: 22/9/2021" from pack.mcmeta
 
+23/9/2021   
+@version 1.2  
+update the pack.mcmeta and load.mcfunction 
