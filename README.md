@@ -1,20 +1,29 @@
 # Lazy-Jump
+
 This is a Minecraft datapack for 1.17.1.  
 @author oiukaine  
-@version 1.0   
-@createTime 22/9/2021
 
-Update Logs:   
+Update Logs:
+22/9/2021   
+@version 1.1  
+create this datapack
+
 23/9/2021  
 @version 1.1  
-upload the pack.png  
+add the pack.png  
 delete the string "@createTime: 22/9/2021" from pack.mcmeta
 
-23/9/2021   
+23/9/2021
 @version 1.2  
-update the pack.mcmeta and load.mcfunction 
+update the pack.mcmeta and load.mcfunction
 
-24/9/2021   
+24/9/2021
 @version 1.3  
 update pack.mcmeta and load.mcfunction  
 add unload.mcfunction
+
+24/9/2021
+@version 1.4  
+update load.mcfunction and unload.mcfunction   
+rename tick.mcfunction to main.mcfunction  
+update the Update Log

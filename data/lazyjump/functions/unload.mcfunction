@@ -1,2 +1,9 @@
 scoreboard objectives remove JumpCount
-tellraw @a ["",{"text": "===================================================","color": "green"},{"text": "\nDatapack Unload ", "color": "light_purple"},{"text": "Succeed","color": "yellow","bold": false},{"text": "\nDon't forget disable the datapack ", "color": "aqua"},{"text": "\nRun command to ","color": "gold"},{"text": "[ Disable the datapack ]","color": "green","clickEvent": {"action":"suggest_command","value": "/datapack disable "},"hoverEvent": {"action": "show_text","value": "/datapack disable "}},{"text": "\nRun command to ","color": "gold"},{"text": "[ Enable the datapack ]","color": "green","clickEvent": {"action": "suggest_command","value": "/datapack enable "},"hoverEvent": {"action": "show_text","value": "/datapack enable"}},{"text": "\nRun command to ","color": "gold"},{"text": "[ Load datapack ]","color": "green","clickEvent": {"action": "suggest_command","value": "/function lazyjump:load"},"hoverEvent": {"action": "show_text","value": "/function lazyjump:load"}},{"text": "\n===================================================","color": "green"}]
+tellraw @a ["", {"text": "========================","color": "gray"}]
+tellraw @a ["", {"text": "Datapack Unload ", "color": "light_purple"},{"text": "Succeed","color": "yellow"}]
+tellraw @a ["", {"text": " "}]
+tellraw @a ["", {"text": "[ Disable the datapack ]","color": "green","clickEvent": {"action":"suggest_command","value": "/datapack disable "},"hoverEvent": {"action": "show_text","value": "/datapack disable "}}]
+tellraw @a ["", {"text": "[ Enable the datapack ]","color": "green","clickEvent": {"action": "suggest_command","value": "/datapack enable "},"hoverEvent": {"action": "show_text","value": "/datapack enable"}}]
+tellraw @a ["", {"text": "[ Load datapack ]","color": "green","clickEvent": {"action": "suggest_command","value": "/function lazyjump:load"},"hoverEvent": {"action": "show_text","value": "/function lazyjump:load"}}]
+tellraw @a ["", {"text": " "}]
+tellraw @a ["", {"text": "========================","color": "gray"}]
